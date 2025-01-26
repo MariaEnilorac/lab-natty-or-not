@@ -20,4 +20,4 @@ Este vídeo encapsula o potencial transformador das IAs Generativas, destacando 
 
 ---
 
-🔗 **Assista agora**: [] 
+🔗 **Assista agora**: [https://github.com/MariaEnilorac/lab-natty-or-not/raw/refs/heads/main/videos/videoIA.mp4] 
