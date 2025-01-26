@@ -1,23 +1,27 @@
 # 🎥 Um Minuto no Futuro das IAs Generativas  
 
 ## 📒 Descrição  
-Videos criados com avatar de IA inspirado em mim.  
+Vídeos criados com um avatar de IA inspirado em mim, trazendo reflexões sobre tecnologia e inovação em apenas 1 minuto.  
 
 ---
 
 ## 🤖 Tecnologias Utilizadas  
-- **ChatGPT**: Criação e revisão do roteiro.  
-- **D-ID**: Geração de avatar virtual e sintetização de voz.  
+- **ChatGPT**: Criação e refinamento do roteiro para garantir clareza e engajamento.  
+- **D-ID**: Geração de avatar virtual e sintetização de voz, oferecendo uma estética futurista e personalizada.  
+
 ---
 
 ## 🧐 Processo de Criação  
-1. **Roteirização**: Desenvolvido e refinado com o ChatGPT para garantir clareza e engajamento.  
-2. **Avatar Virtual e Voz**: Criados no D-ID, trazendo uma estética futurística ao projeto.  
+1. **Roteirização**: Escrito e revisado com o ChatGPT, com foco em uma narrativa cativante e concisa.  
+2. **Avatar Virtual e Voz**: Desenvolvidos com D-ID, dando vida ao avatar inspirado em mim e transmitindo mensagens com impacto.  
+
 ---
 
 ## 🚀 Resultados  
-Este vídeo encapsula o potencial transformador das IAs Generativas, destacando como elas podem melhorar nossa criatividade, trabalho e cotidiano.  
+Esses vídeos demonstram o potencial transformador das IAs Generativas, mostrando como elas podem impulsionar criatividade, produtividade e inovação no cotidiano.  
 
 ---
 
-🔗 **Assista agora**: [https://github.com/MariaEnilorac/lab-natty-or-not/raw/refs/heads/main/videos/videoIA.mp4] 
+🔗 **Assista agora**:  
+- [Vídeo 1](https://github.com/MariaEnilorac/lab-natty-or-not/raw/refs/heads/main/videos/videoIA.mp4)  
+- [Vídeo 2](https://github.com/MariaEnilorac/lab-natty-or-not/blob/main/videos/Copy%20of%20Untitled%20video%20(1).mp4)  
