@@ -7,7 +7,8 @@ Série de vídeos criados com um avatar digital baseado em mim, trazendo ideias 
 
 ## 🤖 Ferramentas Utilizadas  
 - **ChatGPT**: Para escrever e revisar o roteiro, garantindo uma comunicação clara.  
-- **D-ID**: Usado para criar o avatar virtual e a voz sintetizada, com um toque personalizado e imersivo.  
+- **D-ID**: Usado para criar o avatar virtual e a voz sintetizada, com um toque personalizado e imersivo.
+- **Remini**: Usado para criar o avatar virtual inspirado em mim.  
 
 ---
 
