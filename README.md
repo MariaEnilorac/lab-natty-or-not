@@ -1,24 +1,24 @@
-# 🎥 Um Minuto no Futuro das IAs Generativas  
+# 🎥 Vídeos com IAs Generativas  
 
-## 📒 Descrição  
-Vídeos criados com um avatar de IA inspirado em mim, trazendo reflexões sobre tecnologia e inovação em apenas 1 minuto.  
-
----
-
-## 🤖 Tecnologias Utilizadas  
-- **ChatGPT**: Criação e refinamento do roteiro para garantir clareza e engajamento.  
-- **D-ID**: Geração de avatar virtual e sintetização de voz, oferecendo uma estética futurista e personalizada.  
+## 📒 Resumo  
+Série de vídeos criados com um avatar digital baseado em mim, trazendo ideias e reflexões sobre o impacto da tecnologia.  
 
 ---
 
-## 🧐 Processo de Criação  
-1. **Roteirização**: Escrito e revisado com o ChatGPT, com foco em uma narrativa cativante e concisa.  
-2. **Avatar Virtual e Voz**: Desenvolvidos com D-ID, dando vida ao avatar inspirado em mim e transmitindo mensagens com impacto.  
+## 🤖 Ferramentas Utilizadas  
+- **ChatGPT**: Para escrever e revisar o roteiro, garantindo uma comunicação clara.  
+- **D-ID**: Usado para criar o avatar virtual e a voz sintetizada, com um toque personalizado e imersivo.  
 
 ---
 
-## 🚀 Resultados  
-Esses vídeos demonstram o potencial transformador das IAs Generativas, mostrando como elas podem impulsionar criatividade, produtividade e inovação no cotidiano.  
+## 🧐 Etapas de Criação  
+1. **Roteirização**: Desenvolvido com o auxílio do ChatGPT para criar uma narrativa envolvente e acessível.  
+2. **Avatar e Voz**: Criados no D-ID para dar vida ao avatar e transmitir mensagens de forma impactante.  
+
+---
+
+## 🚀 Objetivo  
+Esses vídeos ilustram como as IAs Generativas podem transformar a forma como criamos, inovamos e pensamos sobre tecnologia no dia a dia.  
 
 ---
 
